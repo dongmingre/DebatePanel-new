@@ -1,0 +1,30 @@
+Starting database initialization...
+Creating tables...
+Inserting teams...
+Team 电信院辩论队 has ID: 7
+Team 数大院汇文辩论队 has ID: 4
+Team 演协 has ID: 8
+Team 鹿鸣辩论队 has ID: 10
+Team 力物学院辩论队 has ID: 9
+Team 材料院辩论队 has ID: 11
+Team 空测停云辩论队 has ID: 12
+Team 经管辩论队 has ID: 3
+Team 外国语鸿祯辩论队 has ID: 15
+Team 计算机宏辞辩论队 has ID: 16
+Team 能源恒理辩论队 has ID: 13
+Team 机电博闻辩论队 has ID: 5
+Team 人文昭德辩论队 has ID: 14
+Team 土土土辩论队 has ID: 1
+Team 化爆言之辩论队 has ID: 6
+Inserting matches with correct team IDs...
+Inserted match 29
+Inserted match 30
+Inserted match 31
+Inserted match 32
+Inserted match 33
+Inserted match 34
+Inserted match 35
+Inserted match 36
+All data inserted successfully
+Database initialized successfully
+Server is running on http://0.0.0.0:3000
