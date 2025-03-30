@@ -1,7 +1,7 @@
 <template>
   <div class="login-container">
     <el-card class="login-card">
-      <h2>管理员登录</h2>
+      <h2>管理员登录123</h2>
       <el-form @submit.prevent="handleLogin">
         <el-form-item>
           <el-input v-model="form.username" placeholder="用户名" />
